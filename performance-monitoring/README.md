@@ -1,4 +1,4 @@
-# Performance Mentoring
+# Performance Monitoring
 
 We use [Status Cake](https://www.statuscake.com/) to monitor production applications response time, and [Lighthouse](https://developers.google.com/web/tools/lighthouse/) to audit web pages in both desktop and mobile interfaces.
 

@@ -32,4 +32,4 @@ We live in a magical modern era where many problems have already been solved for
 
 - [Error Tracking](./error-tracking)
 
-- [Performance Monitoring](./performance-mentoring)
+- [Performance Monitoring](./performance-monitoring)
